@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+.users-list {
+    border: 8px solid rgba(28, 28, 32, 0.6);
+    border-radius: 20px;
+    background-color: rgba(62, 74, 91, 0.356);
+}
